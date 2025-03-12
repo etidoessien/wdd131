@@ -75,6 +75,8 @@ h1 {
 
 .about img {
     border-radius: 8px;
+    width: 150px;
+    height: auto;
 }
 
 .flag {
@@ -109,17 +111,19 @@ h4 {
     border-radius: 5px;
     padding: 0.2px;
     float: initial;
+    width: 150px;
+    height: auto;
 }
 
 .name {
-    color: orange;
+    color: black;
     font-size: x-large;
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
     }
 
     #lastModified {
-        color: orange;
+        color: black;
     }
 
     .card ul li {
