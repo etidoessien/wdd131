@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #6f6f6f;
-    padding: 2rem;
+    
     grid-column: 1 / 4;
 }
 
