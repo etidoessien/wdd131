@@ -123,7 +123,9 @@ h4 {
     }
 
     #lastModified {
-        color: black;
+        color: aliceblue;
+        font-size: 14px;
+        font-weight: bold;
     }
 
     .card ul li {
