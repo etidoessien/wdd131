@@ -98,14 +98,8 @@ h3 {
     border: 0.1px solid black;
 }
 
-h4 {
-    text-align: center;
-    background-color:  rgba(0, 0, 128, 0.623);
-    padding: 1rem;
-    color: aliceblue;
-    border-radius: 8px;
     
-}
+
 
 .flag img {
     border-radius: 5px;
